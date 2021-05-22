@@ -13,7 +13,7 @@ import api.Api;
     //in you class
     public class Test {
       ...
-      static Api api = new Api(\"you api Key\");
+      static Api api = new Api("you api Key");
       ...
     }
 ```

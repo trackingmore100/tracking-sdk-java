@@ -1,7 +1,7 @@
 Trackingmore-JAVA
 =================
 
-The PHP SDK of Trackingmore API
+The JAVA SDK of Trackingmore API
 ## Official document
 
 [Document](https://www.trackingmore.com/v3/api-index)
